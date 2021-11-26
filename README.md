@@ -1,4 +1,4 @@
-# tasks-react-native
+# Tasks
 A Simple to do lists beginner friendly react native application. \
 This app makes use of React useState and Material Icons for React. \
 
