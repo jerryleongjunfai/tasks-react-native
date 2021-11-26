@@ -8,12 +8,8 @@ This app makes use of React useState and Material Icons for React.
 
 In the project terminal, you can run:
 
-### `npm install -g expo-cli`
+### `npm install -g expo-cli` - with node
 
-with node
-
-### `yarn global add expo-cli`
-
-with yarn
+### `yarn global add expo-cli` - with yarn
 
 ### `expo start`
